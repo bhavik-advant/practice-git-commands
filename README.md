@@ -37,32 +37,7 @@ This is a simple boilerplate project to practice git commands.
    git log --oneline
    ```
 
-6. **Create branches:**
-   ```
-   git branch <branch-name>
-   git checkout -b <branch-name>
-   ```
 
-7. **Switch branches:**
-   ```
-   git checkout <branch-name>
-   ```
-
-8. **Merge branches:**
-   ```
-   git merge <branch-name>
-   ```
-
-9. **View differences:**
-   ```
-   git diff
-   ```
-
-10. **Undo changes:**
-    ```
-    git restore <filename>
-    git reset HEAD <filename>
-    ```
 
 ## Getting Started
 1. Navigate to this directory
