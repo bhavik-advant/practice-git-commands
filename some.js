@@ -4,3 +4,5 @@ function sum(a, b) {
 
 console.log(sum(5, 3)); 
 console.log(sum(20, 20)); 
+console.log(sum(40, 10)); 
+console.log(sum(5, 30)); 
