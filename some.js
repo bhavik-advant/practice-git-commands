@@ -12,11 +12,7 @@ console.log(sum(5, 30));
 console.log(sum3(5, 30, 15)); 
 
 const output = document.getElementById('output');
-<<<<<<< HEAD
 output.innerHTML += `<p>Sum of 5 and 3 is: ${sum(4,47)}</p>`;
-=======
-output.innerHTML += `<p>Sum of 5 and 3 is: ${sum(22, 22)}</p>`;
->>>>>>> 184afab (calculation changes from feature branch)
 output.innerHTML += `<p>Sum of 20 and 20 is: ${sum(20, 20)}</p>`;
 output.innerHTML += `<p>Sum of 40 and 10 is: ${sum(40, 10)}</p>`;
 output.innerHTML += `<p>Sum of 5 and 30 is: ${sum(5, 30)}</p>`;
