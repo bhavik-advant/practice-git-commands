@@ -12,3 +12,7 @@ button.addEventListener('click', function() {
 document.addEventListener('DOMContentLoaded', function() {
     output.innerHTML = '<p>Ready to practice git commands!</p>';
 });
+
+function unusedFunction() {
+    console.log("This function is not used anywhere for patch files.");
+}
